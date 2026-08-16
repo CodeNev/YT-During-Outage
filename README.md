@@ -1,4 +1,5 @@
 
+
 # 🎬 YT During Outage
 
 **A local HAR analysis & lightweight HTTP gateway for YouTube traffic, built as a single-file Python Flask application.**
@@ -222,6 +223,12 @@ For bug reports or feature requests, please use the [GitHub Issues](https://gith
 
 ---
 
+## 🌐 Other Languages
+
+- **Persian (فارسی):** [Read the Persian version of this README](https://github.com/CodeNev/YT-During-Outage/blob/main/readme_fa)
+
+---
+
 ## 🔗 Links
 
 - **GitHub Repository:** [https://github.com/CodeNev/YT-During-Outage](https://github.com/CodeNev/YT-During-Outage)
@@ -230,4 +237,3 @@ For bug reports or feature requests, please use the [GitHub Issues](https://gith
 ---
 
 *Built with ❤️ for offline YouTube analysis and educational purposes.*
-```
