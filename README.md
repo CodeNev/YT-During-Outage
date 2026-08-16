@@ -225,7 +225,7 @@ For bug reports or feature requests, please use the [GitHub Issues](https://gith
 
 ## 🌐 Other Languages
 
-- **Persian (فارسی):** [Read the Persian version of this README](https://github.com/CodeNev/YT-During-Outage/blob/main/readme_fa)
+- **Persian (فارسی):** [Read the Persian version of this README](https://github.com/CodeNev/YT-During-Outage/blob/main/readme_fa.md)
 
 ---
 
